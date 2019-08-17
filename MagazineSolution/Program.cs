@@ -9,7 +9,7 @@ namespace MagazineSolution
     public class Program
     {
         // Magazine ids not unique across categories 
-        //dict of ctaegory along with list of magazine ids is formed
+        //dict of category along with list of magazine ids is formed
         static void Main(string[] args)
         {
 
