@@ -1,0 +1,10 @@
+D:\MagazineSolution\MagazineSolution\bin\Debug\MagazineSolution.exe.config
+D:\MagazineSolution\MagazineSolution\bin\Debug\MagazineSolution.exe
+D:\MagazineSolution\MagazineSolution\bin\Debug\MagazineSolution.pdb
+D:\MagazineSolution\MagazineSolution\obj\Debug\MagazineSolution.csprojAssemblyReference.cache
+D:\MagazineSolution\MagazineSolution\obj\Debug\MagazineSolution.csproj.CoreCompileInputs.cache
+D:\MagazineSolution\MagazineSolution\obj\Debug\MagazineSolution.exe
+D:\MagazineSolution\MagazineSolution\obj\Debug\MagazineSolution.pdb
+D:\MagazineSolution\MagazineSolution\bin\Debug\Newtonsoft.Json.dll
+D:\MagazineSolution\MagazineSolution\bin\Debug\Newtonsoft.Json.xml
+D:\MagazineSolution\MagazineSolution\obj\Debug\MagazineSolution.csproj.CopyComplete
